@@ -53,7 +53,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <wagon.version>1.0-beta-2</wagon.version>
         
-        <deb.maintainer>openHAB &lt;admin@openhab.org&gt;</deb.maintainer>
+        <deb.maintainer>openHAB &lt;admin@openhab.org></deb.maintainer>
         <deb.section>misc</deb.section>
         <deb.distribution>development</deb.distribution>
         <deb.depends>openhab-runtime</deb.depends>
@@ -79,7 +79,7 @@
         <dependency>
             <groupId>org.apache.felix</groupId>
             <artifactId>org.apache.felix.fileinstall</artifactId>
-            <version>3.2.6</version>
+            <version>3.6.8</version>
         </dependency>
     </dependencies>
     
