@@ -47,7 +47,7 @@
 					<products>
 						<product>
 							<id>org.openhab.designer.product</id>
-						  <rootFolder></rootFolder>
+						  <rootFolder/>
 						  <rootFolders>
 							<macosx>openHAB Designer.app</macosx>
 						  </rootFolders>
@@ -67,7 +67,7 @@
 			<dependency>
 			    <groupId>org.apache.felix</groupId>
 			    <artifactId>org.apache.felix.webconsole</artifactId>
-			    <version>3.0.0</version>
+			    <version>3.1.8</version>
 			</dependency>
 			<dependency>
 			    <groupId>org.apache.felix</groupId>
